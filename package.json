@@ -2,7 +2,10 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "c": "git-cz"
+    "c": "git-cz",
+    "i": "lerna bootstrap",
+    "u": "lerna clean",
+    "p": "npm run b && lerna publish"
   },
   "config": {
     "commitizen": {
@@ -15,7 +18,9 @@
     "commitizen": "^4.0.4",
     "cz-lerna-changelog": "^2.0.2",
     "husky": "^4.2.5",
-    "lerna": "^3.20.2"
+    "lerna": "^3.20.2",
+    "lint-staged": "^10.1.3",
+    "standard": "^14.3.3"
   },
   "husky": {
     "hooks": {

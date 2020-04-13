@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "type": "node",
+    "request": "launch",
+    "name": "debug cli",
+    "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/babel-node",
+    "runtimeArgs": [
+      "${workspaceRoot}/packages/cli/lib/lib.js"
+    ],
+    "env": {
+      "LOCAL_DEBUG": "true"
+    },
+    "console": "integratedTerminal"
+  }]
+}
