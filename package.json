@@ -1,7 +1,12 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "c": "git-cz"
+  },
   "devDependencies": {
+    "commitizen": "^4.0.4",
+    "cz-lerna-changelog": "^2.0.2",
     "lerna": "^3.20.2"
   }
 }
