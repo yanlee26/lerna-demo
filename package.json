@@ -5,7 +5,7 @@
     "c": "git-cz",
     "i": "lerna bootstrap",
     "u": "lerna clean",
-    "p": "npm run b && lerna publish"
+    "p": "lerna publish"
   },
   "config": {
     "commitizen": {
