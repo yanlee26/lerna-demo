@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "test/cli",
   "author": "yanli <yanli@xiaoheiban.cn>",
   "homepage": "https://github.com/yanlee26/lerna-demo#readme",
