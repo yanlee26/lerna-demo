@@ -2,10 +2,10 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "c": "git-cz",
-    "i": "lerna bootstrap",
-    "u": "lerna clean",
-    "p": "lerna publish"
+    "ci": "git-cz",
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean",
+    "publish": "lerna publish"
   },
   "config": {
     "commitizen": {
@@ -15,6 +15,7 @@
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
+    "@typescript-eslint/parser": "^2.11.0",
     "commitizen": "^4.0.4",
     "cz-lerna-changelog": "^2.0.2",
     "husky": "^4.2.5",
