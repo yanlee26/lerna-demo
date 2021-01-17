@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "author": "li <yanli@onlyedu.com>",
+  "homepage": "https://github.com/yanlee26/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/demo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanlee26/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/yanlee26/lerna-demo/issues"
+  }
+}
