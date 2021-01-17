@@ -5,7 +5,7 @@
     "ci": "git-cz",
     "bootstrap": "lerna bootstrap",
     "clean": "lerna clean",
-    "lint:code": "eslint  --fix --ext .js",
+    "lint": "eslint  --fix --ext .js",
     "publish": "lerna publish"
   },
   "config": {
@@ -27,8 +27,8 @@
     "standard": "^14.3.3"
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
-      "yarn lint:code",
+    "*.{js}": [
+      "yarn lint",
       "git add"
     ]
   },

@@ -3,6 +3,5 @@
 module.exports = cli;
 
 function cli() {
-    console.log(123,'independent')
-    // TODO
+    console.log(123,'independent one')
 }
