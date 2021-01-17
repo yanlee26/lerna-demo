@@ -2,7 +2,7 @@
   "name": "@mo-demo/cli",
   "version": "1.2.0",
   "description": "test/cli",
-  "author": "yanli <yanli@xiaoheiban.cn>",
+  "author": "yanli",
   "homepage": "https://github.com/yanlee26/lerna-demo#readme",
   "license": "ISC",
   "main": "lib/cli.js",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/yanlee26/lerna-demo/issues"
-  }
+  },
+  "gitHead": "d2864647d4a4e399483cd8a81147b2486ee21723"
 }
