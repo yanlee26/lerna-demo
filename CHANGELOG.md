@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/yanlee26/lerna-demo/compare/v1.1.0...v1.2.0) (2021-01-17)
+
+
+### Features
+
+* add demo ([127ea2b](https://github.com/yanlee26/lerna-demo/commit/127ea2b39f3366d2fff80bd08968cd80a7763351))
+* add eslint ([d86306d](https://github.com/yanlee26/lerna-demo/commit/d86306d7db786fd2af7f6607ecc531e5ca55037f))
+* add eslint ([a4aa19d](https://github.com/yanlee26/lerna-demo/commit/a4aa19de752da81edb79c613055cca89894f7cee))
+* add eslint ([c829706](https://github.com/yanlee26/lerna-demo/commit/c8297067da15857f02bbe7e369e3ebd25c55b400))
+* add version ([934353f](https://github.com/yanlee26/lerna-demo/commit/934353ffd4bbd3aae6e75dee173b07cf06bbf7f1))
+
+
+
+
+
 # [1.1.0](https://github.com/yanlee26/lerna-demo/compare/v0.1.0...v1.1.0) (2020-04-13)
 
 
